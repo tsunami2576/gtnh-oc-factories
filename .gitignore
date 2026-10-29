@@ -1,0 +1,9 @@
+**/config.lua
+**/state.lua
+**/state.new
+**/state.old
+**/events*.log
+__pycache__/
+*.pyc
+*.jar
+*.class
